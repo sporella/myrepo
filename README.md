@@ -1,9 +1,3 @@
----
-title: "Habits"
-output:
-  github_document:
-    html_preview: false
----
 # myrepo
 Testing my setup
 
