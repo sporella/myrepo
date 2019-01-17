@@ -10,4 +10,6 @@ You can put r code and do amazing things
 ```{r simulate_data}
 x <- rnorm(100)
 y <- 2*x + rnorm(100)
+
+print(plot(x,y))
 ```
