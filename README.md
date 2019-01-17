@@ -1,3 +1,7 @@
+output: 
+  html_document:
+    keep_md: true
+
 # myrepo
 Testing my setup
 
@@ -7,7 +11,7 @@ This is a line from RStudio
 
 You can put r code and do amazing things
 
-```{r simulate_data, results = "asis"}
+```{r simulate_data}
 x <- rnorm(100)
 y <- 2*x + rnorm(100)
 
